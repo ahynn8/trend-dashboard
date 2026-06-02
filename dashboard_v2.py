@@ -236,7 +236,7 @@ def get_insight(df, period_unit="date"):
 # 페이지 설정
 # ============================
 
-st.set_page_config(page_title="네이버 검색 트렌드 대시보드", layout="wide")
+st.set_page_config(page_title="검색 트렌드 대시보드", layout="wide")
 
 st.markdown(f"""
 <style>
@@ -305,7 +305,7 @@ st.markdown(f"""
 <div style='background:{COLOR_DARK}; padding:18px 24px; border-radius:12px; margin-bottom:16px; display:flex; align-items:center; justify-content:space-between;'>
     <div>
         <h1 style='color:#ffffff; margin:0; font-size:20px; font-weight:600; letter-spacing:-0.02em;'>
-            네이버 검색 트렌드 대시보드
+            검색 트렌드 대시보드
         </h1>
         <p style='color:rgba(255,255,255,0.4); margin:4px 0 0 0; font-size:11px;'>
             네이버 데이터랩 API 기반 · 마케팅 키워드 트렌드 분석 · Python · Streamlit · Plotly
