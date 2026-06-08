@@ -1,8 +1,9 @@
 # 검색 트렌드 대시보드
 
 > 네이버 데이터랩 API 기반 · 마케팅 키워드 트렌드 분석 도구
+(해당 프로젝트는 이용약관 상 공유가 어려워 이미지로 대체합니다.)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://trend-dashboard-tap.streamlit.app)
+<img width="1887" height="710" alt="스크린샷 2026-06-08 113220" src="https://github.com/user-attachments/assets/5ccaa99b-8ebe-46a3-8552-d2fd388a509a" />
 
 ---
 
